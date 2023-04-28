@@ -4,7 +4,7 @@
 ### cd into the src folder of your workspace and enter the following:
 
 ```
-git clone <url>
+git clone https://github.com/LavaHawk0123/kinect-ros-driver-mrm.git
 ```
 
 now run : 
