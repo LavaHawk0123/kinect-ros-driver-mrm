@@ -1,4 +1,4 @@
-# Setup ROS Driver for Kinect on Ubuntu 20.04`
+# Setup ROS Driver for Kinect on Ubuntu 20.04
 ## Install the Packages : 
 
 ### cd into the src folder of your workspace and enter the following:
@@ -16,8 +16,8 @@ cd kinect-ros-driver-mrm
 
 
 ```
-chmod +x setup.sh
-./setup.sh
+chmod +x setup_kinect.sh
+./setup_kinect.sh
 ```
 
 Once the file path /etc/udev/rules.d/51-kinect.rules, enter and save : 
